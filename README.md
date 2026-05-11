@@ -59,39 +59,54 @@ Windows `.exe` · macOS `.dmg` · Min: 2GB RAM · Windows 10/11 or macOS 12+
 
 ---
 
-## AI Providers
+## Privacy
 
-| Provider | STT | LLM | Notes |
+**🇮🇹** Pulse-Aria funziona principalmente sul tuo PC. Wake word, controllo app, monitor sonno e configurazione restano locali. I dati escono solo verso il provider AI che scegli (Gemini / Claude / OpenAI), solo per rispondere alle tue richieste, e solo quando i toggle privacy lo permettono.
+
+**🇬🇧** Pulse-Aria runs mainly on your PC. Wake word, app control, sleep monitor and configuration stay local. Data leaves only toward the AI provider you choose (Gemini / Claude / OpenAI), only to answer your requests, and only when privacy toggles allow it.
+
+4 toggle granulari / 4 granular toggles:
+
+- **Vision** (cattura schermo / screen capture) — off by default
+- **Allegati file / File attachments** — off by default
+- **Contesto finestra attiva / Active window context** — on by default
+- **Google Search grounding** — on by default
+
+**🇮🇹** Dettagli completi: [PRIVACY.md](./PRIVACY.md) · Versione web: [pulsare.it/privacy](https://pulsare.it/privacy.html)  
+**🇬🇧** Full details: [PRIVACY.md](./PRIVACY.md) · Web version: [pulsare.it/privacy](https://pulsare.it/privacy.html)
+
+---
+
+## Provider AI supportati / Supported AI providers
+
+| Provider | STT | LLM | Note |
 |---|---|---|---|
-| **Gemini** | ✅ | ✅ | Free · Google Search grounding · Code execution |
-| **Claude** | — | ✅ | Extended thinking |
-| **OpenAI** | — | ✅ | GPT-4o |
-| **Ollama** | — | ✅ | Local · offline |
+| Gemini | ✅ | ✅ | Free · Google Search grounding · Code execution |
+| Claude | — | ✅ | Extended thinking |
+| OpenAI | — | ✅ | GPT-4o mini |
+| Ollama | — | ✅ | Optional · offline |
 
 ---
 
 ## Stack
 
-`Electron 28` · `React 18` · `TypeScript 5` · `Three.js` · `Zustand`  
-`Edge TTS` · `ElevenLabs` · `better-sqlite3` · `Microsoft Graph` · `Gmail OAuth`
+Electron 28 · React 18 · TypeScript 5 · Three.js · Zustand  
+Edge TTS (default) · ElevenLabs (premium) · better-sqlite3
 
 ---
 
-## Pricing / Prezzi
+## Sito / Website
 
-| | 🇮🇹 | 🇬🇧 | Prezzo |
-|---|---|---|---|
-| **Trial** | 30 giorni gratis, accesso completo | 30 days free, full access | **Gratis / Free** |
-| **Pro** | Abbonamento mensile, accesso completo | Monthly subscription, full access | **2,99€/mese** |
-| **Setup Kit** | Video + routine + comandi + PDF | Video + routines + commands + PDF | **4€ una tantum** |
+**[pulsare.it](https://pulsare.it)**
 
 ---
 
-## Links
+## Codice sorgente / Source code
 
-🌐 **[pulsare.it](https://pulsare.it)**  
-📬 **[hello@pulsare.it](mailto:hello@pulsare.it)**
+**🇮🇹** Pulse-Aria è attualmente distribuito solo come binario (Windows `.exe` / macOS `.dmg`). Il codice sorgente è privato durante questa fase di sviluppo. Una versione alpha open source con feature minime è prevista in roadmap futura.
+
+**🇬🇧** Pulse-Aria is currently distributed as binary only (Windows `.exe` / macOS `.dmg`). The source code is private during this development phase. An open source alpha version with minimal features is planned on the future roadmap.
 
 ---
 
-*Built with ❤️ in Italy*
+© 2026 Pulse-Aria — All rights reserved.
