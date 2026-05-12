@@ -8,15 +8,11 @@
 
 ---
 
-## 🚀 Prova gratis 30 giorni / Free 30-day trial
+## 🚀 In arrivo / Coming soon
 
-**🇮🇹** Prova Pulse-Aria **gratis per 30 giorni**. Poi 2,99€/mese — disdici quando vuoi.  
-[Inizia la prova gratuita →](https://pulsare.it)
+**🇮🇹** Pulse-Aria sarà **gratis e open per il download** — porti la tua API key, niente account, niente abbonamenti. **Iscriviti su [pulsare.it](https://pulsare.it) per essere avvisato al lancio.**
 
-**🇬🇧** Try Pulse-Aria **free for 30 days**. Then €2.99/month — cancel anytime.  
-[Start free trial →](https://pulsare.it)
-
-➡️ **[Download latest release](https://github.com/Dieguz80/pulse-aria/releases/latest)**
+**🇬🇧** Pulse-Aria will be **free and open to download** — bring your API key, no account, no subscriptions. **Sign up at [pulsare.it](https://pulsare.it) to be notified at launch.**
 
 Windows `.exe` · macOS `.dmg` · Min: 2GB RAM · Windows 10/11 or macOS 12+
 
