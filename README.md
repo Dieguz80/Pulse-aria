@@ -39,7 +39,7 @@ Windows `.exe` · macOS `.dmg` · Min: 2GB RAM · Windows 10/11 or macOS 12+
 | 🖥️ | Controllo PC vocale completo | Full voice PC control |
 | 📧 | Email & Calendario multi-account | Email & Calendar multi-account |
 | 👁️ | Visual Awareness — vede lo schermo | Visual Awareness — sees your screen |
-| 🧠 | Gemini, Claude, OpenAI, Ollama | Gemini, Claude, OpenAI, Ollama |
+| 🧠 | Gemini, Claude, OpenAI | Gemini, Claude, OpenAI |
 | 🌍 | Multilingua — IT, EN, ES, DE, FR, PT... | Multilingual — IT, EN, ES, DE, FR, PT... |
 
 ---
@@ -84,7 +84,6 @@ Windows `.exe` · macOS `.dmg` · Min: 2GB RAM · Windows 10/11 or macOS 12+
 | Gemini | ✅ | ✅ | Free · Google Search grounding · Code execution |
 | Claude | — | ✅ | Extended thinking |
 | OpenAI | — | ✅ | GPT-4o mini |
-| Ollama | — | ✅ | Optional · offline |
 
 ---
 
