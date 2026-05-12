@@ -87,7 +87,17 @@ Windows `.exe` · macOS `.dmg` · Min: 2GB RAM · Windows 10/11 or macOS 12+
 
 ---
 
-## Stack
+## Stack consigliato / Recommended stack
+
+**🇮🇹** Per essere online in 5 minuti con un solo account: **Gemini** (AI, gratis) + **Gmail** (email) + **Google Calendar** (eventi). Tutto con il tuo account Google, un solo login, niente abbonamenti AI separati.
+
+**🇬🇧** To be online in 5 minutes with a single account: **Gemini** (AI, free) + **Gmail** (email) + **Google Calendar** (events). All with your Google account, single login, no separate AI subscriptions.
+
+Pulse-Aria supporta anche Claude, OpenAI, Outlook/365, IMAP, CalDAV — usali se preferisci. Lo stack Google è solo il path più veloce per chi vuole partire subito.
+
+---
+
+## Stack tecnico / Tech stack
 
 Electron 28 · React 18 · TypeScript 5 · Three.js · Zustand  
 Edge TTS (default) · ElevenLabs (premium) · better-sqlite3
