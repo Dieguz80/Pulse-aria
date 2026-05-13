@@ -8,11 +8,11 @@
 
 ---
 
-## 🚀 In arrivo / Coming soon
+## 🚀 Founder open — In arrivo / Coming soon
 
-**🇮🇹** Pulse-Aria sarà **gratis e open per il download** — porti la tua API key, niente account, niente abbonamenti. **Iscriviti su [pulsare.it](https://pulsare.it) per essere avvisato al lancio.**
+**🇮🇹** Pulse-Aria sarà **gratis per tutti, ma i primi 1000 utenti diventano Founder**: accesso a vita gratuito a tutte le feature future, anche quelle Pro. **Prenota il tuo posto Founder su [pulsare.it](https://pulsare.it).**
 
-**🇬🇧** Pulse-Aria will be **free and open to download** — bring your API key, no account, no subscriptions. **Sign up at [pulsare.it](https://pulsare.it) to be notified at launch.**
+**🇬🇧** Pulse-Aria will be **free for everyone, but the first 1000 users become Founders**: lifetime access to every future feature, including Pro. **Claim your Founder spot at [pulsare.it](https://pulsare.it).**
 
 Windows `.exe` · macOS `.dmg` · Min: 2GB RAM · Windows 10/11 or macOS 12+
 
