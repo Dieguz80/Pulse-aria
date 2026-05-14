@@ -3,8 +3,8 @@
 > *"Aria è sempre lì. Basta uno schiocco."*  
 > *"Aria is always there. Just snap."*
 
-**🇮🇹 Assistente AI vocale desktop per Windows e macOS.**  
-**🇬🇧 AI voice assistant for desktop — Windows and macOS.**
+**🇮🇹 Assistente AI vocale multi-device. Desktop oggi (Windows/macOS), tablet e mobile in roadmap.**  
+**🇬🇧 Multi-device AI voice assistant. Desktop today (Windows/macOS), tablet and mobile on roadmap.**
 
 ---
 
@@ -57,9 +57,9 @@ Windows `.exe` · macOS `.dmg` · Min: 2GB RAM · Windows 10/11 or macOS 12+
 
 ## Privacy
 
-**🇮🇹** Pulse-Aria funziona principalmente sul tuo PC. Wake word, controllo app, monitor sonno e configurazione restano locali. I dati escono solo verso il provider AI che scegli (Gemini / Claude / OpenAI), solo per rispondere alle tue richieste, e solo quando i toggle privacy lo permettono.
+**🇮🇹** Pulse-Aria funziona principalmente sul tuo dispositivo. Wake word, controllo app, monitor sonno e configurazione restano locali. I dati escono solo verso il provider AI che scegli (Gemini / Claude / OpenAI), solo per rispondere alle tue richieste, e solo quando i toggle privacy lo permettono.
 
-**🇬🇧** Pulse-Aria runs mainly on your PC. Wake word, app control, sleep monitor and configuration stay local. Data leaves only toward the AI provider you choose (Gemini / Claude / OpenAI), only to answer your requests, and only when privacy toggles allow it.
+**🇬🇧** Pulse-Aria runs mainly on your device. Wake word, app control, sleep monitor and configuration stay local. Data leaves only toward the AI provider you choose (Gemini / Claude / OpenAI), only to answer your requests, and only when privacy toggles allow it.
 
 4 toggle granulari / 4 granular toggles:
 
@@ -95,8 +95,10 @@ Pulse-Aria supporta anche Claude, OpenAI, Outlook/365, IMAP, CalDAV — usali se
 
 ## Stack tecnico / Tech stack
 
-Electron 28 · React 18 · TypeScript 5 · Three.js · Zustand  
-Edge TTS (default) · ElevenLabs (premium) · better-sqlite3
+Tauri 2.x · React 18 · TypeScript 5 · Three.js · Zustand · Rust  
+Edge TTS (default, gratuito) · ElevenLabs (premium) · SQLite (memoria locale)
+
+Bundle <10MB · Stesso codebase Windows/macOS/iOS/Android/iPadOS
 
 ---
 
